@@ -6,5 +6,6 @@
 - `linear-gradient` was used to style backgrounds of the buttons.
 
 ***
+# [Deployed Link](https://saurabh-web-design-landing-page.netlify.app/)
 
 ## Time Taken to Complete Project: **1 hour**
