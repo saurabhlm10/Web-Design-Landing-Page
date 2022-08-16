@@ -1,0 +1,29 @@
+@media screen and (max-width:1000px) {
+    
+    *{
+        text-align: center;
+    }
+
+    nav{
+        flex-direction: column;
+        height: 20vh;
+    }
+
+    .nav-items{
+        width: 80%;
+    }
+
+    .intro-section{
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .left-section h4{
+        width: 100%;
+    }
+
+    .imgs-div{
+        position: relative;
+    }
+
+}
